@@ -94,10 +94,12 @@ As Kanye West said:
 ```
 
 ### Images
-
-![GitHub Logo](/images/logo.png)
-
-Format: ![Alt Text](url)
+If you want to embed images, this is how you do it:
+Format: `![Alt Text](url)`
+```
+![Cute Dog](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlxSynjnFPJD7hAe0LhUsjQVVRpZYa3Ve9g&usqp=CAU)
+``` 
+![Cute Dog](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlxSynjnFPJD7hAe0LhUsjQVVRpZYa3Ve9g&usqp=CAU)
 
 
 ### GitHub Flavored Markdown
@@ -113,10 +115,12 @@ function fancyAlert(arg) {
   if(arg) {
     $.facebox({div:'#foo'})
   }
-}```
+}
+```
 
 
-``` ```javascript
+``` 
+```javascript
 function fancyAlert(arg) {
   if(arg) {
     $.facebox({div:'#foo'})
