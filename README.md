@@ -210,5 +210,3 @@ You can use Markdown most places around GitHub:
 For more information, see <a href='https://help.github.com/categories/writing-on-github/'>“Writing on GitHub”</a> in the *GitHub Help*.
 
 To read the complete article: https://guides.github.com/features/mastering-markdown/
-
-
